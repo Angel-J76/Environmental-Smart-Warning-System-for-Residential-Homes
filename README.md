@@ -1,4 +1,4 @@
-# 🔥 Safe Environment: Smart Warning System for Residential Homes
+# Safe Environment: Smart Warning System for Residential Homes
 
 ![Arduino](https://img.shields.io/badge/Arduino-Uno_REV3-00979D?logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-000000?logo=espressif&logoColor=white)
@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
-A real-time, multi-sensor IoT hazard-detection system that monitors residential homes for gas leaks, high temperature, and unsafe humidity — and pushes instant alerts to a mobile app. Built as a capstone engineering project (Team 3, Prairie View A&M University).
+A real-time, multi-sensor IoT hazard-detection system that monitors residential homes for gas leaks, high temperature, and unsafe humidity — and pushes instant alerts to a mobile app. Built as a Senior Design Engineering Project (Team 3, Prairie View A&M University, May 2025).
 
 <p align="center">
   <img src="Media/Cover.png" width="1000">
