@@ -26,7 +26,7 @@ The system features a user-friendly interface for hassle-free control, ensures r
 - Consumer smoke/gas detectors on the market today are largely single-purpose, hard to integrate with smart homes, or expensive.
 
 <p align="center">
-  <img src="Media/Problem.png" width="800">
+  <img src="Media/Problem .png" width="800">
 </p>
 
 ## ✅ What This System Does
