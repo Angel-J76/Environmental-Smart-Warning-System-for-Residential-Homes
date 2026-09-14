@@ -40,7 +40,7 @@ The system features a user-friendly interface for hassle-free control, ensures r
 **Data flow:** DHT11 (temp/humidity) + gas sensor → Arduino Uno (local logic, LCD, buzzer, relay) → Serial link → ESP8266 NodeMCU → Blynk mobile app (remote alerts).
 
 <p align="center">
-  <img src="Media/Schematic.png" width="1000">
+  <img src="Media/Components .jpg" width="1000">
 </p>
 
 Full wiring schematic: [`hardware/schematic.png`](hardware/schematic.png)
