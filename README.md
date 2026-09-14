@@ -46,12 +46,9 @@ The system features a user-friendly interface for hassle-free control, ensures r
 Full wiring schematic: [`hardware/schematic.png`](hardware/schematic.png)
 
 ## 🔩 Hardware
-
-<p align="center">
-  <img src="Media/Components.jpg" alt="System architecture" width="600">
-</p>
-
-<div align="center">
+<table align="center">
+<tr>
+<td width="30%" valign="middle">
 
 | Core Components |
 |---|
@@ -63,7 +60,12 @@ Full wiring schematic: [`hardware/schematic.png`](hardware/schematic.png)
 | Buzzer + status LEDs |
 | 16x2 LCD display |
 
-</div>
+</td>
+<td width="70%" valign="middle">
+<img src="hardware/system-architecture.png" alt="System architecture and component wiring overview" width="100%">
+</td>
+</tr>
+</table>
 
 Full bill of materials with costs: [`hardware/component-list.md`](hardware/component-list.md)
 Prototype build cost: **~$133** (of a $600 budget).
