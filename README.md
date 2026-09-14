@@ -30,10 +30,11 @@ A real-time, multi-sensor IoT hazard-detection system that monitors residential 
 - **Automatically responds** — triggers a ventilation fan via relay when a hazard is detected
 
 ## 🏗️ System Architecture
-
-<img src="hardware/system-architecture.png" alt="System architecture and component wiring overview" width="800">
-
 **Data flow:** DHT11 (temp/humidity) + gas sensor → Arduino Uno (local logic, LCD, buzzer, relay) → Serial link → ESP8266 NodeMCU → Blynk mobile app (remote alerts).
+
+<p align="center">
+  <img src="Media/Schematic.png" width="1000">
+</p>
 
 Full wiring schematic: [`hardware/schematic.png`](hardware/schematic.png)
 
