@@ -12,16 +12,6 @@ A real-time, multi-sensor IoT hazard-detection system that monitors residential 
 
 ---
 
-## 📽️ Demo
-
-[![Watch the demo](media/cover.png)](https://youtu.be/_AFLeFJfCj0)
-
-*Click the image above to watch the full system demo on YouTube.*
-
-> **Next upgrade:** replace this static thumbnail with a short `.gif` of the alarm actually triggering (`media/demo.gif`) — GIFs autoplay on GitHub and are far more effective than a video link for grabbing a recruiter's attention in the first 5 seconds on the page.
-
----
-
 ## 🧩 The Problem
 
 - Indoor gas leaks are often odorless/undetectable by scent alone, increasing methane and indoor air pollution risk.
@@ -86,8 +76,15 @@ Full competitive breakdown: [`docs/market-analysis.md`](docs/market-analysis.md)
 - [`docs/design-methodology.md`](docs/design-methodology.md) — build process, timeline, assumptions, constraints
 - [`docs/testing-results.md`](docs/testing-results.md) — acceptance criteria, standards compliance, impact analysis
 
-## 🚧 Known Limitations & Future Work
+## 📽️ Demo
+[![Watch the demo](media/cover.png)](https://youtu.be/_AFLeFJfCj0)
 
+*Click the image above to watch the full system demo on YouTube.*
+
+> **Next upgrade:** replace this static thumbnail with a short `.gif` of the alarm actually triggering (`media/demo.gif`) — GIFs autoplay on GitHub and are far more effective than a video link for grabbing a recruiter's attention in the first 5 seconds on the page.
+---
+
+## 🚧 Known Limitations & Future Work
 - No direct first-responder alerting (currently notifies the homeowner only)
 - No home-security feature set (motion/entry detection)
 - Designed and tested for U.S. residential contexts; not yet validated for global markets
