@@ -25,7 +25,7 @@ The system features a user-friendly interface for hassle-free control, ensures r
 - Between 2003–2018, U.S. fire departments spent ~$500M/year (rising to $564M by 2018) responding to gas leak incidents — the majority with no fire involved.
 - Consumer smoke/gas detectors on the market today are largely single-purpose, hard to integrate with smart homes, or expensive.
 
-<img src="results/Problem .png" alt="Global and social impact of residential fires" width="800">
+<p align="center"> <img src="Problem .png" width="1000"></p>
 
 *Sources: Rahman et al., "Economic Costs of Residential Fires: A Systematic Review," Fire, 2023 ([DOI](https://doi.org/10.3390/fire6100399)) · Kishchuk et al., Canadian Journal of Public Health, 2019 ([DOI](https://doi.org/10.17269/s41997-019-00256-7)) · NFPA, "Fire Loss in the United States," 2023 ([link](https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/fire-loss-in-the-united-states))*
 
