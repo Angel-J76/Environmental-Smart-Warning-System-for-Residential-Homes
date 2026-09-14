@@ -8,6 +8,9 @@
 
 A real-time, multi-sensor IoT hazard-detection system that monitors residential homes for gas leaks, high temperature, and unsafe humidity — and pushes instant alerts to a mobile app. Built as a Senior Design Engineering Project (Team 3, Prairie View A&M University, May 2025).
 
+The system features a user-friendly interface for hassle-free control, ensures reliability and accuracy with high-precision sensors to minimize false alarms, integrate multiple sensors (gas, smoke, humidity, temperature, for comprehensive hazard detection, and maintains affordability by using cost-effective components without compromising quality. 
+
+
 <p align="center">
   <img src="Media/Cover.png" width="1000">
 </p>
@@ -21,6 +24,10 @@ A real-time, multi-sensor IoT hazard-detection system that monitors residential 
 - Indoor gas leaks are often odorless/undetectable by scent alone, increasing methane and indoor air pollution risk.
 - Between 2003–2018, U.S. fire departments spent ~$500M/year (rising to $564M by 2018) responding to gas leak incidents — the majority with no fire involved.
 - Consumer smoke/gas detectors on the market today are largely single-purpose, hard to integrate with smart homes, or expensive.
+
+<p align="center">
+  <img src="Media/Problem.png" width="800">
+</p>
 
 ## ✅ What This System Does
 
@@ -64,7 +71,7 @@ Prototype build cost: **~$133** (of a $600 budget).
 3. Flash `wifi_module.ino` to the ESP8266 NodeMCU.
 4. Connect Arduino TX/RX → NodeMCU RX/TX for the serial data bridge.
 
-## 📊 How It Compares
+## 📊 Competitive Analysis
 
 | Product | Price | Multi-Sensor | Smart Home Integration |
 |---|---|---|---|
@@ -75,11 +82,7 @@ Prototype build cost: **~$133** (of a $600 budget).
 
 Full competitive breakdown: [`docs/market-analysis.md`](docs/market-analysis.md)
 
-## 📁 Documentation
-
-- [`docs/market-analysis.md`](docs/market-analysis.md) — problem statement, requirements, competitive analysis
-- [`docs/design-methodology.md`](docs/design-methodology.md) — build process, timeline, assumptions, constraints
-- [`docs/testing-results.md`](docs/testing-results.md) — acceptance criteria, standards compliance, impact analysis
+## 📁 Acceptance criteria, standards compliance, impact analysis
 
 ## 📽️ Demo
 [![Watch the demo](media/cover.png)](https://youtu.be/_AFLeFJfCj0)
