@@ -47,6 +47,12 @@ Full wiring schematic: [`hardware/schematic.png`](hardware/schematic.png)
 
 ## 🔩 Hardware
 
+<p align="center">
+  <img src="Media/Components.jpg" alt="System architecture" width="600">
+</p>
+
+<div align="center">
+
 | Core Components |
 |---|
 | Arduino Uno REV3 (main controller) |
@@ -56,6 +62,8 @@ Full wiring schematic: [`hardware/schematic.png`](hardware/schematic.png)
 | 2-channel 5V relay → DC brushless cooling fan |
 | Buzzer + status LEDs |
 | 16x2 LCD display |
+
+</div>
 
 Full bill of materials with costs: [`hardware/component-list.md`](hardware/component-list.md)
 Prototype build cost: **~$133** (of a $600 budget).
