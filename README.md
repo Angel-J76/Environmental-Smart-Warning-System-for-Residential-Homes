@@ -24,10 +24,10 @@ A real-time, multi-sensor IoT hazard-detection system that monitors residential 
 
 ## ✅ What This System Does
 
-- **Detects** gas leaks, high temperature, and abnormal humidity in real time
-- **Alerts locally** via LED + buzzer, and **remotely** via the Blynk mobile app over Wi-Fi
-- **Integrates** with existing smart home ecosystems
+- **Detects** fire 🔥, gas leaks, high temperature, and abnormal humidity in real time
+- **Alerts locally** via LED + buzzer, and **remotely** via the Blynk mobile app 📱 over Wi-Fi
 - **Automatically responds** — triggers a ventilation fan via relay when a hazard is detected
+- - **Integrateable** with existing smart home 🏠 ecosystems  (Add-on)
 
 ## 🏗️ System Architecture
 **Data flow:** DHT11 (temp/humidity) + gas sensor → Arduino Uno (local logic, LCD, buzzer, relay) → Serial link → ESP8266 NodeMCU → Blynk mobile app (remote alerts).
