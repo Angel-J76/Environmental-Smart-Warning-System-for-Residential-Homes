@@ -9,7 +9,7 @@
 A real-time, multi-sensor IoT hazard-detection system that monitors residential homes for gas leaks, high temperature, and unsafe humidity — and pushes instant alerts to a mobile app. Built as a capstone engineering project (Team 3, Prairie View A&M University).
 
 <p align="center">
-  <img src="Media/Cover.png" width="800">
+  <img src="Media/Cover.png" width="1000">
 </p>
 
 > Indoor gas leaks can evade scent detection entirely. U.S. fire departments spend $500M+ annually responding to gas-leak incidents — most involving no actual fire. This system exists to catch the leak before it becomes an emergency.
